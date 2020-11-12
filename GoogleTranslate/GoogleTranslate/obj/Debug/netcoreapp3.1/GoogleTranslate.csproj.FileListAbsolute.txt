@@ -1,0 +1,4 @@
+D:\GoogleTranslate\GoogleTranslate\obj\Debug\netcoreapp3.1\GoogleTranslate.csprojAssemblyReference.cache
+D:\GoogleTranslate\GoogleTranslate\obj\Debug\netcoreapp3.1\GoogleTranslate.AssemblyInfoInputs.cache
+D:\GoogleTranslate\GoogleTranslate\obj\Debug\netcoreapp3.1\GoogleTranslate.AssemblyInfo.cs
+D:\GoogleTranslate\GoogleTranslate\obj\Debug\netcoreapp3.1\GoogleTranslate.csproj.CoreCompileInputs.cache

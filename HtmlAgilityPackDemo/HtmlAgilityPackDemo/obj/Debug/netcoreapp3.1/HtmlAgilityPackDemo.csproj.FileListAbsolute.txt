@@ -1,0 +1,15 @@
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.csprojAssemblyReference.cache
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.AssemblyInfoInputs.cache
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.AssemblyInfo.cs
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.csproj.CoreCompileInputs.cache
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPackDemo.exe
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPackDemo.deps.json
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPackDemo.runtimeconfig.json
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPackDemo.runtimeconfig.dev.json
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPackDemo.dll
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPackDemo.pdb
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.csproj.CopyComplete
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.dll
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.pdb
+D:\HtmlAgilityPackDemo\HtmlAgilityPackDemo\obj\Debug\netcoreapp3.1\HtmlAgilityPackDemo.genruntimeconfig.cache
