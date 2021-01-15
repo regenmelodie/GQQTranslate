@@ -15,7 +15,7 @@ namespace BaiduAPI
 {
     public partial class Form1 : Form
     {
-        string q = "米老鼠";
+        string q = "大脸猫";
         string from = "zh";
         string to = "en";
         string appid = "20201111000614330";
